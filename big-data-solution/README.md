@@ -1,4 +1,4 @@
-# Fork de BigData Solution para actualizar Hadoop, Spark y Scala.
+# BigData Solution for Hadoop, Spark Multinode.
 ### Scale your data management by distributing workload and storage on Hadoop and Spark Clusters, explore and transform your data in Jupyter Notebook.
 
 <!--
