@@ -41,7 +41,9 @@ Access Jupyter UI on ' http://localhost:8888 '
 
 
 <!-- CONTACT -->
-## Contact
+## Contact 
+#### Updated Image link:
+[@samuro74](https://github.com/samuro74/big-data-solution) 
 
 ### Martin Karlsson
 
